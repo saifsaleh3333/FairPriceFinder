@@ -6,12 +6,12 @@ export const Gallery = props => {
   const [isViewerOpen, setIsViewerOpen] = useState(false);
 
   const data = [
-    { thumb: "img/portfolio/01-small.jpg", title: "Lorem Ipsum1" },
-    { thumb: "img/portfolio/02-small.jpg", title: "Lorem Ipsum2" },
-    { thumb: "img/portfolio/03-small.jpg", title: "Lorem Ipsum3" },
-    { thumb: "img/portfolio/04-small.jpg", title: "Lorem Ipsum4" },
-    { thumb: "img/portfolio/05-small.jpg", title: "Lorem Ipsum5" },
-    { thumb: "img/portfolio/06-small.jpg", title: "Lorem Ipsum6" }
+    { thumb: "img/portfolio/ageChart.png", title: "Age Demographics" },
+    { thumb: "img/portfolio/ageGraph.png", title: "Age Demographics 2" },
+    { thumb: "img/portfolio/agePieChart.png", title: "Age Chart" },
+    { thumb: "img/portfolio/foodtimes.png", title: "Food Wait Times" },
+    { thumb: "img/portfolio/genderChart.png", title: "Gender Ratio" },
+    { thumb: "img/portfolio/tablestimes.png", title: "Table Turnover Times" }
   ];
 
   const images = data.map(obj => obj.thumb.replace("-small", "-large"));
@@ -30,7 +30,7 @@ export const Gallery = props => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
+          <h2>Reporting Samples</h2>
           <p>Discover the power of data-driven decision making with our example reports. 
             These demonstrate how we turn raw data into clear, actionable insights that can help streamline your restaurant's operations.</p>
         </div>

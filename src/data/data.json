@@ -1,7 +1,7 @@
 {
   "Header": {
       "title": "DineTime Analytics: Transform Your Restaurant Operations",
-      "paragraph": "Maximize operational efficiency, enhance customer satisfaction, and increase profitability using actionable data insights."
+      "paragraph": "Maximize operational efficiency, enhance customer satisfaction, and increase profitability using actionable data insights, gained just from your existing security camera footage."
   },
   "About": {
       "paragraph": "DineTime Analytics leverages computer vision technology to analyze customer interactions within your restaurant. Our mission is to provide actionable insights that can significantly improve your operational efficiency, customer satisfaction, and bottom line.",
@@ -105,17 +105,17 @@
   "Features": [
       {
           "icon": "fa fa-clock-o",
-          "title": "Boost Efficiency",
+          "title": "We Receive your 30 Day Footage",
           "text": "Reduce table wait times and streamline workflows, enhancing the overall dining experience for your customers."
       },
       {
           "icon": "fa fa-bar-chart",
-          "title": "Make Informed Decisions",
+          "title": "Computer Vision Analysis",
           "text": "Use comprehensive metrics to make decisions that ensure continuous optimization of operations and maximum profits."
       },
       {
           "icon": "fa fa-bullseye",
-          "title": "Targeted Marketing",
+          "title": "Monthly Report Production",
           "text": "Inform more effective marketing strategies using demographic data and behavioral patterns, boosting customer loyalty."
       },
       {
