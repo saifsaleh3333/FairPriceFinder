@@ -4,7 +4,7 @@ import React from "react";
 
 const initialState = {
   name: "appuser",
-  email: "saifsaleh1028@gmail.com",
+  email: "",
   message: "New user sent email for getting updates",
 };
 
