@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/FairPriceFinder/static/css/main.dfd93ae4.css",
-    "main.js": "/FairPriceFinder/static/js/main.5b5ccf07.js",
+    "main.js": "/FairPriceFinder/static/js/main.6f128f4c.js",
     "index.html": "/FairPriceFinder/index.html",
     "main.dfd93ae4.css.map": "/FairPriceFinder/static/css/main.dfd93ae4.css.map",
-    "main.5b5ccf07.js.map": "/FairPriceFinder/static/js/main.5b5ccf07.js.map"
+    "main.6f128f4c.js.map": "/FairPriceFinder/static/js/main.6f128f4c.js.map"
   },
   "entrypoints": [
     "static/css/main.dfd93ae4.css",
-    "static/js/main.5b5ccf07.js"
+    "static/js/main.6f128f4c.js"
   ]
 }
